@@ -867,6 +867,12 @@ function catchbox_socialprofile() {
 						$catchbox_socialprofile .= '<li class="twitter"><a href="'. esc_url( $options['social_twitter'] ) .'"><span class="screen-reader-text">'. esc_attr__( 'Twitter', 'catch-box' ) .'</span></a></li>';
 					}
 
+					//X Twitter
+					if ( !empty( $options['social_x'] ) ) {
+						$catchbox_socialprofile .=
+							'<li class="x"><a href="'.esc_url( $options['social_x'] ).'" title="'. esc_attr__( 'X Twitter', 'catch-box' ) .'" target="_blank" rel="nofollow">'. esc_attr__( 'X Twitter', 'catch-box' ) .'</a></li>';
+					}
+
 					//Google+
 					if ( !empty( $options['social_google'] ) ) {
 						$catchbox_socialprofile .= '<li class="google-plus"><a href="'. esc_url( $options['social_google'] ) .'"><span class="screen-reader-text">'. esc_attr__( 'Google Plus', 'catch-box' ) .'</span></a></li>';
@@ -984,7 +990,21 @@ function catchbox_socialprofile() {
 						$catchbox_socialprofile .=
 							'<li class="spotify"><a href="'.esc_url( $options['social_spotify'] ).'" title="'. esc_attr__( 'Spotify', 'catch-box' ) .'" target="_blank" rel="nofollow">'. esc_attr__( 'Spotify', 'catch-box' ) .'</a></li>';
 					}
-
+					//Tiktok
+					if ( !empty( $options['social_tiktok'] ) ) {
+						$catchbox_socialprofile .=
+							'<li class="tiktok"><a href="'.esc_url( $options['social_tiktok'] ).'" title="'. esc_attr__( 'Tiktok', 'catch-box' ) .'" target="_blank" rel="nofollow">'. esc_attr__( 'Tiktok', 'catch-box' ) .'</a></li>';
+					}
+					//Bluesky
+					if ( !empty( $options['social_bluesky'] ) ) {
+						$catchbox_socialprofile .=
+							'<li class="bluesky"><a href="'.esc_url( $options['social_bluesky'] ).'" title="'. esc_attr__( 'Bluesky', 'catch-box' ) .'" target="_blank" rel="nofollow">'. esc_attr__( 'Bluesky', 'catch-box' ) .'</a></li>';
+					}
+					//Threads
+					if ( !empty( $options['social_threads'] ) ) {
+						$catchbox_socialprofile .=
+							'<li class="threads"><a href="'.esc_url( $options['social_threads'] ).'" title="'. esc_attr__( 'Threads', 'catch-box' ) .'" target="_blank" rel="nofollow">'. esc_attr__( 'Threads', 'catch-box' ) .'</a></li>';
+					}
 					$catchbox_socialprofile .= '
 				</ul>
 			</nav><!-- .social-profile -->';

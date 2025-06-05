@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Catch Box\n"
 "Report-Msgid-Bugs-To: https://catchthemes.com/contact-us/\n"
-"POT-Creation-Date: 2024-09-04 23:59+0545\n"
-"PO-Revision-Date: 2024-09-04 23:59+0545\n"
+"POT-Creation-Date: 2025-06-05 19:42+0545\n"
+"PO-Revision-Date: 2025-06-05 19:42+0545\n"
 "Last-Translator: Sakin Shrestha <info@catchthemes.com>\n"
 "Language-Team: Piotrekkk\n"
 "Language: pl\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 3.5\n"
+"X-Generator: Poedit 3.6\n"
 "X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;esc_attr_e;esc_attr__\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SourceCharset: utf-8\n"
@@ -423,7 +423,7 @@ msgstr "ID"
 msgid "Name"
 msgstr "Podpis"
 
-#: ../functions.php:802 ../functions.php:952
+#: ../functions.php:802 ../functions.php:958
 msgid "Email"
 msgstr "Email"
 
@@ -439,92 +439,112 @@ msgstr "Facebook"
 msgid "Twitter"
 msgstr "Twitter"
 
-#: ../functions.php:872
+#: ../functions.php:873
+#, fuzzy
+#| msgid "Twitter"
+msgid "X Twitter"
+msgstr "Twitter"
+
+#: ../functions.php:878
 msgid "Google Plus"
 msgstr "Google Plus"
 
-#: ../functions.php:877
+#: ../functions.php:883
 msgid "Linkedin"
 msgstr "Linkedin"
 
-#: ../functions.php:882
+#: ../functions.php:888
 msgid "Pinterest"
 msgstr "Pinterest"
 
-#: ../functions.php:887
+#: ../functions.php:893
 msgid "YouTube"
 msgstr "YouTube"
 
-#: ../functions.php:892
+#: ../functions.php:898
 msgid "RSS Feed"
 msgstr "Kanał RSS"
 
-#: ../functions.php:897
+#: ../functions.php:903
 msgid "Deviantart"
 msgstr "Deviantart"
 
-#: ../functions.php:902
+#: ../functions.php:908
 msgid "Tumblr"
 msgstr "Tumblr"
 
-#: ../functions.php:907
+#: ../functions.php:913
 msgid "Vimeo"
 msgstr "Vimeo"
 
-#: ../functions.php:912
+#: ../functions.php:918
 msgid "Dribbble"
 msgstr "Dribbble"
 
-#: ../functions.php:917
+#: ../functions.php:923
 msgid "MySpace"
 msgstr "MySpace"
 
-#: ../functions.php:922
+#: ../functions.php:928
 msgid "AIM"
 msgstr "AIM"
 
-#: ../functions.php:927
+#: ../functions.php:933
 msgid "Flickr"
 msgstr "Flickr"
 
-#: ../functions.php:932
+#: ../functions.php:938
 msgid "Slideshare"
 msgstr "Slideshare"
 
-#: ../functions.php:937
+#: ../functions.php:943
 msgid "Instagram"
 msgstr "Instagram"
 
-#: ../functions.php:942
+#: ../functions.php:948
 msgid "Skype"
 msgstr "Skype"
 
-#: ../functions.php:947
+#: ../functions.php:953
 msgid "Soundcloud"
 msgstr "Soundcloud"
 
-#: ../functions.php:957
+#: ../functions.php:963
 msgid "Xing"
 msgstr "Xing"
 
-#: ../functions.php:962
+#: ../functions.php:968
 msgid "Meetup"
 msgstr "Meetup"
 
-#: ../functions.php:968
+#: ../functions.php:974
 msgid "Goodreads"
 msgstr ""
 
-#: ../functions.php:974
+#: ../functions.php:980
 msgid "Github"
 msgstr ""
 
-#: ../functions.php:980
+#: ../functions.php:986
 msgid "VK"
 msgstr ""
 
-#: ../functions.php:985
+#: ../functions.php:991
 msgid "Spotify"
+msgstr ""
+
+#: ../functions.php:996
+msgid "Tiktok"
+msgstr ""
+
+#: ../functions.php:1001
+#, fuzzy
+#| msgid "Blue"
+msgid "Bluesky"
+msgstr "Niebieski"
+
+#: ../functions.php:1006
+msgid "Threads"
 msgstr ""
 
 #: ../image.php:15

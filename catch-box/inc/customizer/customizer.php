@@ -447,6 +447,16 @@ function catchbox_customize_register( $wp_customize ) {
 			'section' 		=> 'predefined_social_icons',
 			'default' 		=> ''
 		),
+		'social_x' => array(
+			'id' 			=> 'social_x',
+			'title' 		=> esc_html__('X Twitter', 'catch-box'),
+			'description'	=> '',
+			'field_type' 	=> 'url',
+			'sanitize' 		=> 'esc_url_raw',
+			'panel' 		=> 'social_links',
+			'section' 		=> 'predefined_social_icons',
+			'default' 		=> ''
+		),
 		'social_google' => array(
 			'id' 			=> 'social_google',
 			'title' 		=> esc_html__( 'Google+', 'catch-box' ),
@@ -670,6 +680,36 @@ function catchbox_customize_register( $wp_customize ) {
 		'social_spotify' => array(
 			'id' 			=> 'social_spotify',
 			'title' 		=> esc_html__( 'Spotify', 'catch-box' ),
+			'description'	=> '',
+			'field_type' 	=> 'url',
+			'sanitize' 		=> 'esc_url_raw',
+			'panel' 		=> 'social_links',
+			'section' 		=> 'predefined_social_icons',
+			'default' 		=> ''
+		),
+		'social_tiktok' => array(
+			'id' 			=> 'social_tiktok',
+			'title' 		=> esc_html__('Tiktok', 'catch-box'),
+			'description'	=> '',
+			'field_type' 	=> 'url',
+			'sanitize' 		=> 'esc_url_raw',
+			'panel' 		=> 'social_links',
+			'section' 		=> 'predefined_social_icons',
+			'default' 		=> ''
+		),
+		'social_bluesky' => array(
+			'id' 			=> 'social_bluesky',
+			'title' 		=> esc_html__('Bluesky', 'catch-box'),
+			'description'	=> '',
+			'field_type' 	=> 'url',
+			'sanitize' 		=> 'esc_url_raw',
+			'panel' 		=> 'social_links',
+			'section' 		=> 'predefined_social_icons',
+			'default' 		=> ''
+		),
+		'social_threads' => array(
+			'id' 			=> 'social_threads',
+			'title' 		=> esc_html__('Threads', 'catch-box'),
 			'description'	=> '',
 			'field_type' 	=> 'url',
 			'sanitize' 		=> 'esc_url_raw',

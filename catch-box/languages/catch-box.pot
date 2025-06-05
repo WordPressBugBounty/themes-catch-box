@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Catch Box\n"
 "Report-Msgid-Bugs-To: https://catchthemes.com/contact-us/\n"
-"POT-Creation-Date: 2024-09-04 23:59+0545\n"
+"POT-Creation-Date: 2025-06-05 19:32+0545\n"
 "PO-Revision-Date: 2017-01-07 18:46+0545\n"
 "Last-Translator: Catch Themes <info@catchthemes.com>\n"
 "Language-Team: Catch Themes <info@catchthemes.com>\n"
@@ -14,10 +14,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 3.5\n"
-"X-Poedit-KeywordsList: __;_e;_x;esc_html_e;esc_html__;esc_attr_e;esc_attr__;"
-"_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;"
-"__ngettext_noop:1,2;_c,_nc:4c,1,2;esc_html_x\n"
+"X-Generator: Poedit 3.6\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x;esc_html_e;esc_html__;esc_attr_e;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2;esc_html_x\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: .\n"
 "X-Textdomain-Support: yes\n"
@@ -433,8 +432,8 @@ msgstr ""
 msgid "Name"
 msgstr ""
 
-#: ../functions.php:802 ../functions.php:952
-#: ../inc/customizer/customizer.php:612
+#: ../functions.php:802 ../functions.php:958
+#: ../inc/customizer/customizer.php:622
 msgid "Email"
 msgstr ""
 
@@ -450,100 +449,116 @@ msgstr ""
 msgid "Twitter"
 msgstr ""
 
-#: ../functions.php:872
+#: ../functions.php:873 ../inc/customizer/customizer.php:452
+msgid "X Twitter"
+msgstr ""
+
+#: ../functions.php:878
 msgid "Google Plus"
 msgstr ""
 
-#: ../functions.php:877
+#: ../functions.php:883
 msgid "Linkedin"
 msgstr ""
 
-#: ../functions.php:882 ../inc/customizer/customizer.php:472
+#: ../functions.php:888 ../inc/customizer/customizer.php:482
 msgid "Pinterest"
 msgstr ""
 
-#: ../functions.php:887
+#: ../functions.php:893
 msgid "YouTube"
 msgstr ""
 
-#: ../functions.php:892
+#: ../functions.php:898
 msgid "RSS Feed"
 msgstr ""
 
-#: ../functions.php:897
+#: ../functions.php:903
 msgid "Deviantart"
 msgstr ""
 
-#: ../functions.php:902 ../inc/customizer/customizer.php:512
+#: ../functions.php:908 ../inc/customizer/customizer.php:522
 msgid "Tumblr"
 msgstr ""
 
-#: ../functions.php:907 ../inc/customizer/customizer.php:522
+#: ../functions.php:913 ../inc/customizer/customizer.php:532
 msgid "Vimeo"
 msgstr ""
 
-#: ../functions.php:912 ../inc/customizer/customizer.php:532
+#: ../functions.php:918 ../inc/customizer/customizer.php:542
 msgid "Dribbble"
 msgstr ""
 
-#: ../functions.php:917 ../inc/customizer/customizer.php:542
+#: ../functions.php:923 ../inc/customizer/customizer.php:552
 msgid "MySpace"
 msgstr ""
 
-#: ../functions.php:922
+#: ../functions.php:928
 msgid "AIM"
 msgstr ""
 
-#: ../functions.php:927 ../inc/customizer/customizer.php:562
+#: ../functions.php:933 ../inc/customizer/customizer.php:572
 msgid "Flickr"
 msgstr ""
 
-#: ../functions.php:932 ../inc/customizer/customizer.php:572
+#: ../functions.php:938 ../inc/customizer/customizer.php:582
 msgid "Slideshare"
 msgstr ""
 
-#: ../functions.php:937 ../inc/customizer/customizer.php:582
+#: ../functions.php:943 ../inc/customizer/customizer.php:592
 #: ../inc/widgets.php:63
 msgid "Instagram"
 msgstr ""
 
-#: ../functions.php:942 ../inc/customizer/customizer.php:592
+#: ../functions.php:948 ../inc/customizer/customizer.php:602
 msgid "Skype"
 msgstr ""
 
-#: ../functions.php:947 ../inc/customizer/customizer.php:602
+#: ../functions.php:953 ../inc/customizer/customizer.php:612
 msgid "Soundcloud"
 msgstr ""
 
-#: ../functions.php:957 ../inc/customizer/customizer.php:622
+#: ../functions.php:963 ../inc/customizer/customizer.php:632
 msgid "Xing"
 msgstr ""
 
-#: ../functions.php:962 ../inc/customizer/customizer.php:632
+#: ../functions.php:968 ../inc/customizer/customizer.php:642
 msgid "Meetup"
 msgstr ""
 
-#: ../functions.php:968 ../inc/customizer/customizer.php:642
+#: ../functions.php:974 ../inc/customizer/customizer.php:652
 msgid "Goodreads"
 msgstr ""
 
-#: ../functions.php:974 ../inc/customizer/customizer.php:652
+#: ../functions.php:980 ../inc/customizer/customizer.php:662
 msgid "Github"
 msgstr ""
 
-#: ../functions.php:980 ../inc/customizer/customizer.php:662
+#: ../functions.php:986 ../inc/customizer/customizer.php:672
 msgid "VK"
 msgstr ""
 
-#: ../functions.php:985 ../inc/customizer/customizer.php:672
+#: ../functions.php:991 ../inc/customizer/customizer.php:682
 msgid "Spotify"
 msgstr ""
 
-#: ../functions.php:1066
+#: ../functions.php:996 ../inc/customizer/customizer.php:692
+msgid "Tiktok"
+msgstr ""
+
+#: ../functions.php:1001 ../inc/customizer/customizer.php:702
+msgid "Bluesky"
+msgstr ""
+
+#: ../functions.php:1006 ../inc/customizer/customizer.php:712
+msgid "Threads"
+msgstr ""
+
+#: ../functions.php:1086
 msgid "Scroll Up"
 msgstr ""
 
-#: ../functions.php:1097
+#: ../functions.php:1117
 msgid "Skip to content"
 msgstr ""
 
@@ -840,88 +855,88 @@ msgstr ""
 msgid "Transition Length"
 msgstr ""
 
-#: ../inc/customizer/customizer.php:452
+#: ../inc/customizer/customizer.php:462
 msgid "Google+"
 msgstr ""
 
-#: ../inc/customizer/customizer.php:462
+#: ../inc/customizer/customizer.php:472
 msgid "LinkedIn"
 msgstr ""
 
-#: ../inc/customizer/customizer.php:482
+#: ../inc/customizer/customizer.php:492
 msgid "Youtube"
 msgstr ""
 
-#: ../inc/customizer/customizer.php:492
+#: ../inc/customizer/customizer.php:502
 msgid "RSS"
 msgstr ""
 
-#: ../inc/customizer/customizer.php:502
+#: ../inc/customizer/customizer.php:512
 msgid "deviantART"
 msgstr ""
 
-#: ../inc/customizer/customizer.php:552
+#: ../inc/customizer/customizer.php:562
 msgid "Aim"
 msgstr ""
 
-#: ../inc/customizer/customizer.php:684
+#: ../inc/customizer/customizer.php:724
 msgid "Code to display on Header"
 msgstr ""
 
-#: ../inc/customizer/customizer.php:685
+#: ../inc/customizer/customizer.php:725
 msgid ""
 "Here you can put scripts from Google, Facebook etc. which will load on Header"
 msgstr ""
 
-#: ../inc/customizer/customizer.php:695
+#: ../inc/customizer/customizer.php:735
 msgid "Code to display on Footer"
 msgstr ""
 
-#: ../inc/customizer/customizer.php:696
+#: ../inc/customizer/customizer.php:736
 msgid ""
 "Here you can put scripts from Google, Facebook etc. which will load on Footer"
 msgstr ""
 
-#: ../inc/customizer/customizer.php:712
+#: ../inc/customizer/customizer.php:752
 msgid "Header Image Location"
 msgstr ""
 
-#: ../inc/customizer/customizer.php:719
+#: ../inc/customizer/customizer.php:759
 msgid "Above Header Content"
 msgstr ""
 
-#: ../inc/customizer/customizer.php:720
+#: ../inc/customizer/customizer.php:760
 msgid "Between Site Title-Logo"
 msgstr ""
 
-#: ../inc/customizer/customizer.php:721
+#: ../inc/customizer/customizer.php:761
 msgid "Below Header Content"
 msgstr ""
 
-#: ../inc/customizer/customizer.php:861
+#: ../inc/customizer/customizer.php:901
 #, php-format
 msgid "#%s Featured Post ID"
 msgstr ""
 
-#: ../inc/customizer/customizer.php:876
+#: ../inc/customizer/customizer.php:916
 msgid ""
 "Caution: Reset all settings to default. Refresh the page after save to view "
 "full effects."
 msgstr ""
 
-#: ../inc/customizer/customizer.php:878
+#: ../inc/customizer/customizer.php:918
 msgid "Reset all settings"
 msgstr ""
 
-#: ../inc/customizer/customizer.php:888
+#: ../inc/customizer/customizer.php:928
 msgid "Check to reset all settings to default"
 msgstr ""
 
-#: ../inc/customizer/customizer.php:898 ../inc/customizer/customizer.php:909
+#: ../inc/customizer/customizer.php:938 ../inc/customizer/customizer.php:949
 msgid "Important Links"
 msgstr ""
 
-#: ../inc/customizer/customizer.php:942
+#: ../inc/customizer/customizer.php:982
 msgid "Refresh the customizer page after saving to view reset effects"
 msgstr ""
 

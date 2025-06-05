@@ -1,8 +1,8 @@
 === Catch Box ===
 Contributors: catchthemes
 Tags: dark, light, blue, white, black, gray, one-column, two-columns, left-sidebar, right-sidebar, fixed-width, flexible-width, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-image-header, featured-images, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready
-Requires at least: 5.6
-Tested up to: 6.6
+Requires at least: 5.9
+Tested up to: 6.8
 Requires PHP: 5.6
 License: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -83,6 +83,10 @@ Because Gutenberg ( Block editor from WordPress version 5.0 or onwards ) automat
 For more FAQs, visit https://catchthemes.com/frequently-asked-questions/
 
 == Change Log ==
+
+= 5.0 (Released: June 05, 2025) ==
+* Added: Twitter X, TikTok, Bluesky, and Threads icons
+* Updated: WordPress 6.8 ready
 
 = 4.9.4 (Released: September 04, 2024) =
 * Bug Fixed: Escaping author display name
@@ -823,7 +827,7 @@ For more FAQs, visit https://catchthemes.com/frequently-asked-questions/
 
 == Copyright ==
 
-Catch Box WordPress Theme, Copyright 2012-2023 Catchthemes.com
+Catch Box WordPress Theme, Copyright 2012-2025 Catchthemes.com
 Catch Box is distributed under the terms of the GNU GPL
 
 == Resources ==

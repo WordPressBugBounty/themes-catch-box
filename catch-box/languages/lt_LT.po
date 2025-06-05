@@ -4,8 +4,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Catch Box\n"
 "Report-Msgid-Bugs-To: https://catchthemes.com/contact-us/\n"
-"POT-Creation-Date: 2024-09-04 23:59+0545\n"
-"PO-Revision-Date: 2024-09-04 23:59+0545\n"
+"POT-Creation-Date: 2025-06-05 19:42+0545\n"
+"PO-Revision-Date: 2025-06-05 19:42+0545\n"
 "Last-Translator: Catch Themes <info@catchthemes.com>\n"
 "Language-Team: Catch Themes <info@catchthemes.com>\n"
 "Language: lt\n"
@@ -14,10 +14,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "(n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 3.5\n"
+"X-Generator: Poedit 3.6\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;esc_attr_e;esc_attr__;"
-"_nx:1,2,4c;esc_html__;esc_attr_x:1,2c\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_n:1,2;_x:1,2c;_ex:1,2c;esc_attr_e;esc_attr__;_nx:1,2,4c;esc_html__;esc_attr_x:1,2c\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SearchPath-0: ..\n"
 
@@ -450,8 +450,8 @@ msgstr ""
 msgid "Name"
 msgstr "Vardas"
 
-#: ../functions.php:802 ../functions.php:952
-#: ../inc/customizer/customizer.php:612
+#: ../functions.php:802 ../functions.php:958
+#: ../inc/customizer/customizer.php:622
 msgid "Email"
 msgstr "E-paštas"
 
@@ -467,100 +467,118 @@ msgstr "Facebook"
 msgid "Twitter"
 msgstr "Twitter"
 
-#: ../functions.php:872
+#: ../functions.php:873 ../inc/customizer/customizer.php:452
+#, fuzzy
+#| msgid "Twitter"
+msgid "X Twitter"
+msgstr "Twitter"
+
+#: ../functions.php:878
 msgid "Google Plus"
 msgstr "Google Plus"
 
-#: ../functions.php:877
+#: ../functions.php:883
 msgid "Linkedin"
 msgstr "Linkedin"
 
-#: ../functions.php:882 ../inc/customizer/customizer.php:472
+#: ../functions.php:888 ../inc/customizer/customizer.php:482
 msgid "Pinterest"
 msgstr "Pinterest"
 
-#: ../functions.php:887
+#: ../functions.php:893
 msgid "YouTube"
 msgstr "YouTube"
 
-#: ../functions.php:892
+#: ../functions.php:898
 msgid "RSS Feed"
 msgstr "RSS Feed"
 
-#: ../functions.php:897
+#: ../functions.php:903
 msgid "Deviantart"
 msgstr "Deviantart"
 
-#: ../functions.php:902 ../inc/customizer/customizer.php:512
+#: ../functions.php:908 ../inc/customizer/customizer.php:522
 msgid "Tumblr"
 msgstr "Tumblr"
 
-#: ../functions.php:907 ../inc/customizer/customizer.php:522
+#: ../functions.php:913 ../inc/customizer/customizer.php:532
 msgid "Vimeo"
 msgstr "Vimeo"
 
-#: ../functions.php:912 ../inc/customizer/customizer.php:532
+#: ../functions.php:918 ../inc/customizer/customizer.php:542
 msgid "Dribbble"
 msgstr "Dribbble"
 
-#: ../functions.php:917 ../inc/customizer/customizer.php:542
+#: ../functions.php:923 ../inc/customizer/customizer.php:552
 msgid "MySpace"
 msgstr "MySpace"
 
-#: ../functions.php:922
+#: ../functions.php:928
 msgid "AIM"
 msgstr "AIM"
 
-#: ../functions.php:927 ../inc/customizer/customizer.php:562
+#: ../functions.php:933 ../inc/customizer/customizer.php:572
 msgid "Flickr"
 msgstr "Flickr"
 
-#: ../functions.php:932 ../inc/customizer/customizer.php:572
+#: ../functions.php:938 ../inc/customizer/customizer.php:582
 msgid "Slideshare"
 msgstr "Slideshare"
 
-#: ../functions.php:937 ../inc/customizer/customizer.php:582
+#: ../functions.php:943 ../inc/customizer/customizer.php:592
 #: ../inc/widgets.php:63
 msgid "Instagram"
 msgstr "Instagram"
 
-#: ../functions.php:942 ../inc/customizer/customizer.php:592
+#: ../functions.php:948 ../inc/customizer/customizer.php:602
 msgid "Skype"
 msgstr "Skype"
 
-#: ../functions.php:947 ../inc/customizer/customizer.php:602
+#: ../functions.php:953 ../inc/customizer/customizer.php:612
 msgid "Soundcloud"
 msgstr "Soundcloud"
 
-#: ../functions.php:957 ../inc/customizer/customizer.php:622
+#: ../functions.php:963 ../inc/customizer/customizer.php:632
 msgid "Xing"
 msgstr "Xing"
 
-#: ../functions.php:962 ../inc/customizer/customizer.php:632
+#: ../functions.php:968 ../inc/customizer/customizer.php:642
 msgid "Meetup"
 msgstr "Meetup"
 
-#: ../functions.php:968 ../inc/customizer/customizer.php:642
+#: ../functions.php:974 ../inc/customizer/customizer.php:652
 msgid "Goodreads"
 msgstr ""
 
-#: ../functions.php:974 ../inc/customizer/customizer.php:652
+#: ../functions.php:980 ../inc/customizer/customizer.php:662
 msgid "Github"
 msgstr ""
 
-#: ../functions.php:980 ../inc/customizer/customizer.php:662
+#: ../functions.php:986 ../inc/customizer/customizer.php:672
 msgid "VK"
 msgstr ""
 
-#: ../functions.php:985 ../inc/customizer/customizer.php:672
+#: ../functions.php:991 ../inc/customizer/customizer.php:682
 msgid "Spotify"
 msgstr "Spotify"
 
-#: ../functions.php:1066
+#: ../functions.php:996 ../inc/customizer/customizer.php:692
+msgid "Tiktok"
+msgstr ""
+
+#: ../functions.php:1001 ../inc/customizer/customizer.php:702
+msgid "Bluesky"
+msgstr ""
+
+#: ../functions.php:1006 ../inc/customizer/customizer.php:712
+msgid "Threads"
+msgstr ""
+
+#: ../functions.php:1086
 msgid "Scroll Up"
 msgstr "Slinkti aukštyn"
 
-#: ../functions.php:1097
+#: ../functions.php:1117
 msgid "Skip to content"
 msgstr "Pereiti prie turinio"
 
@@ -845,70 +863,70 @@ msgstr ""
 msgid "Transition Length"
 msgstr "Perėjimo ilgis"
 
-#: ../inc/customizer/customizer.php:452
+#: ../inc/customizer/customizer.php:462
 msgid "Google+"
 msgstr "Google+"
 
-#: ../inc/customizer/customizer.php:462
+#: ../inc/customizer/customizer.php:472
 msgid "LinkedIn"
 msgstr "LinkedIn"
 
-#: ../inc/customizer/customizer.php:482
+#: ../inc/customizer/customizer.php:492
 msgid "Youtube"
 msgstr "Youtube"
 
-#: ../inc/customizer/customizer.php:492
+#: ../inc/customizer/customizer.php:502
 msgid "RSS"
 msgstr "RSS"
 
-#: ../inc/customizer/customizer.php:502
+#: ../inc/customizer/customizer.php:512
 msgid "deviantART"
 msgstr "deviantART"
 
-#: ../inc/customizer/customizer.php:552
+#: ../inc/customizer/customizer.php:562
 msgid "Aim"
 msgstr "Aim"
 
-#: ../inc/customizer/customizer.php:684
+#: ../inc/customizer/customizer.php:724
 msgid "Code to display on Header"
 msgstr ""
 
-#: ../inc/customizer/customizer.php:685
+#: ../inc/customizer/customizer.php:725
 msgid ""
 "Here you can put scripts from Google, Facebook etc. which will load on Header"
 msgstr ""
 
-#: ../inc/customizer/customizer.php:695
+#: ../inc/customizer/customizer.php:735
 msgid "Code to display on Footer"
 msgstr ""
 
-#: ../inc/customizer/customizer.php:696
+#: ../inc/customizer/customizer.php:736
 msgid ""
 "Here you can put scripts from Google, Facebook etc. which will load on Footer"
 msgstr ""
 
-#: ../inc/customizer/customizer.php:712
+#: ../inc/customizer/customizer.php:752
 msgid "Header Image Location"
 msgstr ""
 
-#: ../inc/customizer/customizer.php:719
+#: ../inc/customizer/customizer.php:759
 msgid "Above Header Content"
 msgstr ""
 
-#: ../inc/customizer/customizer.php:720
+#: ../inc/customizer/customizer.php:760
 msgid "Between Site Title-Logo"
 msgstr ""
 
-#: ../inc/customizer/customizer.php:721
+#: ../inc/customizer/customizer.php:761
 msgid "Below Header Content"
 msgstr ""
 
-#: ../inc/customizer/customizer.php:861
+#: ../inc/customizer/customizer.php:901
 #, php-format
 msgid "#%s Featured Post ID"
 msgstr ""
 
-#: ../inc/customizer/customizer.php:876
+#: ../inc/customizer/customizer.php:916
 msgid ""
 "Caution: Reset all settings to default. Refresh the page after save to view "
 "full effects."
@@ -916,19 +934,19 @@ msgstr ""
 "Atsargiai: Atstatykite visus nustatymus į numatytuosius. Po išsaugojimo "
 "atnaujinkite puslapį, kad galėtumėte peržiūrėti pilną efektą."
 
-#: ../inc/customizer/customizer.php:878
+#: ../inc/customizer/customizer.php:918
 msgid "Reset all settings"
 msgstr "Atstatyti visus nustatymus"
 
-#: ../inc/customizer/customizer.php:888
+#: ../inc/customizer/customizer.php:928
 msgid "Check to reset all settings to default"
 msgstr "Pažymėkite norėdami atstatyti visus nustatymus į numatytuosius"
 
-#: ../inc/customizer/customizer.php:898 ../inc/customizer/customizer.php:909
+#: ../inc/customizer/customizer.php:938 ../inc/customizer/customizer.php:949
 msgid "Important Links"
 msgstr "Svarbios nuorodos"
 
-#: ../inc/customizer/customizer.php:942
+#: ../inc/customizer/customizer.php:982
 msgid "Refresh the customizer page after saving to view reset effects"
 msgstr ""
 
@@ -1560,8 +1578,8 @@ msgstr "Žymų Archyvai: %s"
 
 #~ msgid ""
 #~ "Here you can showcase the x number of Featured Content. You can edit this "
-#~ "Headline, Subheadline and Feaured Content from \"Appearance -> Customize -"
-#~ "> Featured Content Options\"."
+#~ "Headline, Subheadline and Feaured Content from \"Appearance -> Customize "
+#~ "-> Featured Content Options\"."
 #~ msgstr ""
 #~ "Čia Jūs galite demonstruoti x skaičių reklaminio turinio. Jūs galite "
 #~ "redaguoti šią antraštę, Paantraštę ir reklaminį turinį iš \"Išvaizda -> "
