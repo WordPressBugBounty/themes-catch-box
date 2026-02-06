@@ -749,9 +749,6 @@ function catchbox_scripts_method() {
 		wp_enqueue_script( 'catchbox-scrollup', trailingslashit( esc_url ( get_template_directory_uri() ) ) . 'js/catchbox-scrollup.min.js', array( 'jquery' ), '20072014', true  );
 	}
 
-	// Load the html5 shiv.
-	wp_enqueue_script( 'catchbox-html5', trailingslashit( esc_url ( get_template_directory_uri() ) ) . 'js/html5.min.js', array(), '3.7.3' );
-
 }
 endif; // catchbox_scripts_method
 add_action( 'wp_enqueue_scripts', 'catchbox_scripts_method' );

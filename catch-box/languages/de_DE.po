@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Catch Box\n"
 "Report-Msgid-Bugs-To: https://catchthemes.com/contact-us/\n"
-"POT-Creation-Date: 2025-06-05 19:42+0545\n"
-"PO-Revision-Date: 2025-06-05 19:42+0545\n"
+"POT-Creation-Date: 2025-12-11 14:56+0545\n"
+"PO-Revision-Date: 2025-12-11 14:56+0545\n"
 "Last-Translator: Sakin Shrestha <info@catchthemes.com>\n"
 "Language-Team: H.P. Brinkmann\n"
 "Language: de_DE\n"
@@ -16,7 +16,7 @@ msgstr ""
 "__;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;esc_attr_e;esc_attr__\n"
 "X-Poedit-Basepath: .\n"
 "X-Textdomain-Support: yes\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Poedit 3.8\n"
 "X-Poedit-SearchPath-0: ..\n"
 
 # @ catchbox
@@ -488,144 +488,144 @@ msgid "ID"
 msgstr "ID"
 
 # @ default
-#: ../functions.php:800
+#: ../functions.php:797
 msgid "Name"
 msgstr "Name"
 
 # @ default
-#: ../functions.php:802 ../functions.php:958
+#: ../functions.php:799 ../functions.php:955
 msgid "Email"
 msgstr "E-Mail"
 
-#: ../functions.php:858
+#: ../functions.php:855
 msgid "Footer Social Links Menu"
 msgstr ""
 
 # @ catchbox
-#: ../functions.php:862
+#: ../functions.php:859
 msgid "Facebook"
 msgstr "Facebook"
 
 # @ catchbox
-#: ../functions.php:867
+#: ../functions.php:864
 msgid "Twitter"
 msgstr "Twitter"
 
 # @ catchbox
-#: ../functions.php:873
+#: ../functions.php:870
 #, fuzzy
 #| msgid "Twitter"
 msgid "X Twitter"
 msgstr "Twitter"
 
-#: ../functions.php:878
+#: ../functions.php:875
 msgid "Google Plus"
 msgstr "Google Plus"
 
-#: ../functions.php:883
+#: ../functions.php:880
 msgid "Linkedin"
 msgstr "Linkedin"
 
 # @ catchbox
-#: ../functions.php:888
+#: ../functions.php:885
 msgid "Pinterest"
 msgstr "Pinterest"
 
-#: ../functions.php:893
+#: ../functions.php:890
 msgid "YouTube"
 msgstr "YouTube"
 
 # @ catchbox
-#: ../functions.php:898
+#: ../functions.php:895
 msgid "RSS Feed"
 msgstr "RSS Feed"
 
 # @ catchbox
-#: ../functions.php:903
+#: ../functions.php:900
 msgid "Deviantart"
 msgstr "Deviantart"
 
 # @ catchbox
-#: ../functions.php:908
+#: ../functions.php:905
 msgid "Tumblr"
 msgstr "Tumblr"
 
 # @ catchbox
-#: ../functions.php:913
+#: ../functions.php:910
 msgid "Vimeo"
 msgstr "Vimeo"
 
 # @ catchbox
-#: ../functions.php:918
+#: ../functions.php:915
 msgid "Dribbble"
 msgstr "Dribbble"
 
 # @ catchbox
-#: ../functions.php:923
+#: ../functions.php:920
 msgid "MySpace"
 msgstr "MySpace"
 
-#: ../functions.php:928
+#: ../functions.php:925
 msgid "AIM"
 msgstr "AIM"
 
 # @ catchbox
-#: ../functions.php:933
+#: ../functions.php:930
 msgid "Flickr"
 msgstr "Flickr"
 
-#: ../functions.php:938
+#: ../functions.php:935
 msgid "Slideshare"
 msgstr "Slideshare"
 
-#: ../functions.php:943
+#: ../functions.php:940
 msgid "Instagram"
 msgstr "Instagram"
 
-#: ../functions.php:948
+#: ../functions.php:945
 msgid "Skype"
 msgstr "Skype"
 
-#: ../functions.php:953
+#: ../functions.php:950
 msgid "Soundcloud"
 msgstr "Soundcloud"
 
-#: ../functions.php:963
+#: ../functions.php:960
 msgid "Xing"
 msgstr "Xing"
 
-#: ../functions.php:968
+#: ../functions.php:965
 msgid "Meetup"
 msgstr "Meetup"
 
-#: ../functions.php:974
+#: ../functions.php:971
 msgid "Goodreads"
 msgstr ""
 
-#: ../functions.php:980
+#: ../functions.php:977
 msgid "Github"
 msgstr ""
 
-#: ../functions.php:986
+#: ../functions.php:983
 msgid "VK"
 msgstr ""
 
-#: ../functions.php:991
+#: ../functions.php:988
 msgid "Spotify"
 msgstr ""
 
-#: ../functions.php:996
+#: ../functions.php:993
 msgid "Tiktok"
 msgstr ""
 
 # @ catchbox
-#: ../functions.php:1001
+#: ../functions.php:998
 #, fuzzy
 #| msgid "Blue"
 msgid "Bluesky"
 msgstr "Blau"
 
-#: ../functions.php:1006
+#: ../functions.php:1003
 msgid "Threads"
 msgstr ""
 
